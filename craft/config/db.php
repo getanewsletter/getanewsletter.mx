@@ -19,7 +19,7 @@ return array(
 	'password' => '',
 
 	// The name of the database to select.
-	'database' => 'getanewsletter_mx',
+	'database' => 'gan_mx',
 
 	// The prefix to use when naming tables. This can be no more than 5 characters.
 	'tablePrefix' => 'getmx',
