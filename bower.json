@@ -1,0 +1,14 @@
+{
+    "name": "getanewsletter.mx",
+    "version": "0.0.0",
+    "authors": [
+        "Simon Wallström <simon.wallstrom@yahoo.se>"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "node_modules"
+    ],
+    "dependencies": {
+        "gancss": "git@github.com:getanewsletter/gancss.git"
+    }
+}
